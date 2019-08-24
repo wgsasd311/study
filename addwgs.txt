@@ -2,3 +2,4 @@
 6666666666666666
 7777777777777777
 add by local(master)
+add new line to addwgs.txt
